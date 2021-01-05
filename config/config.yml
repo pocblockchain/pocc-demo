@@ -1,0 +1,4 @@
+rpc_url: 3.113.3.207:26657  #poc-testnet with  poc-mainnet as chain-id
+chain_id: poc-mainnet
+gas: 200000
+min_gasprice: 10000000000poc
